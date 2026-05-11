@@ -1,3 +1,7 @@
 .hej {
   color: pink;
+  display: block;
+}
+.hej p {
+  color: pink;
 }
